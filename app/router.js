@@ -9,6 +9,7 @@ const Router = Ember.Router.extend({
 Router.map(function() {
   this.route('movies');
   this.route('wishlist');
+  this.route('reviews');
 });
 
 export default Router;
