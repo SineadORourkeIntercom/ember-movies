@@ -2,6 +2,13 @@
 	width: 50px;
 }
 
-.card-img-top {
-	
+.btn-primary {
+	color: white;
+	text-decoration: none;
 }
+
+.header-text{
+	color: white;
+	text-decoration: none;
+}
+
